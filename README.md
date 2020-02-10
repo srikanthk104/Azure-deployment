@@ -1,2 +1,1 @@
-# Azure-deployment
-Azure deployment
+# AzureDeployment
